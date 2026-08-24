@@ -60,6 +60,7 @@ INDEX_TEMPLATE = '''
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
+    <meta name="google-site-verification" content="r9Wl-L8py_jN_Wv5yOS1UJK0iTVJKeWqXKKdvZQRv2Q" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sir Athelstan · Adil Raza — Author & Philosopher</title>
     <meta name="description" content="Sir Athelstan (Adil Raza) – author from Siwan, Bihar. Books on psychology, sovereignty, philosophy." />
