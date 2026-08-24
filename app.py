@@ -60,6 +60,7 @@ INDEX_TEMPLATE = '''
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
+    <meta name="p:domain_verify" content="c368895cf19768cca89a4d19d28e5dce"/>
     <meta name="google-site-verification" content="r9Wl-L8py_jN_Wv5yOS1UJK0iTVJKeWqXKKdvZQRv2Q" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sir Athelstan · Adil Raza — Author & Philosopher</title>
