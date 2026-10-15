@@ -214,9 +214,9 @@ INDEX_TEMPLATE = '''
             <h2 class="text-2xl font-serif uppercase border-b border-stone pb-2 mb-6">Contact</h2>
             <div class="bg-cream border-l-4 border-gold p-6">
                 <p><strong>Email:</strong> <a href="mailto:sirathelstan0@gmail.com" class="hover:text-gold transition">sirathelstan0@gmail.com</a></p>
-                <p><strong>YouTube:</strong> <a href="https://youtube.com/@authorathelstan" target="_blank" class="hover:text-gold transition">@sirathelstanyt</a></p>
-                <p><strong>Instagram:</strong> <a href="https://instagram.com/authorathelstan" target="_blank" class="hover:text-gold transition">@sirathelstan</a></p>
-                <p><strong>Twitter / X:</strong> <a href="https://twitter.com/authorathelstan" target="_blank" class="hover:text-gold transition">@Athelstx</a></p>
+                <p><strong>YouTube:</strong> <a href="https://youtube.com/@authorathelstan" target="_blank" class="hover:text-gold transition">@authorathelstan</a></p>
+                <p><strong>Instagram:</strong> <a href="https://instagram.com/authorathelstan" target="_blank" class="hover:text-gold transition">@authorathelstan</a></p>
+                <p><strong>Twitter / X:</strong> <a href="https://twitter.com/authorathelstan" target="_blank" class="hover:text-gold transition">@authorathelstan</a></p>
             </div>
         </section>
 
