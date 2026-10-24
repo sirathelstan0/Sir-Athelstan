@@ -413,7 +413,7 @@ INDEX_TEMPLATE = '''
         <a href="#about" class="link-underline hover:text-ink">About</a>
         <a href="#books" class="link-underline hover:text-ink">Books</a>
         <a href="#contact" class="link-underline hover:text-ink">Contact</a>
-        <a href="/admin" class="link-underline hover:text-ink">Admin</a>
+        <a href="/admin" class="link-underline hover:text-ink"></a>
       </nav>
     </div>
     <p class="max-w-7xl mx-auto px-6 md:px-10 pb-10 text-xs text-muted">© 2026 Sir Athelstan (Adil Raza) · Siwan, Bihar · India</p>
